@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juan2pedro" alt="juan2pedro" /></a> </p>
 
+- 🔭 I’m currently looking for a job as a programmer **looking for a job**
+
 - 🌱 I’m currently learning **node.js**
 
 - 📫 How to reach me **juanpemt@gmail.com**
