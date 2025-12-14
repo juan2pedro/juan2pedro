@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Juan Pedro Mancera</h1>
-<h3 align="center">Desarrollador Backend especializado en Java y Spring Boot desde Málaga, España/h3>
+<h3 align="center">Desarrollador Backend especializado en Java y Spring Boot desde Málaga, España </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juan2pedro&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="juan2pedro" /> </p>
 
