@@ -24,7 +24,6 @@ A project to consolidate my Java + Angular stack and demonstrate end-to-end owne
 **Frontend**
 - Angular routing, services, reusable components
 - Integration with REST endpoints
-- 
 ---
 
 ## Experience snapshot 💼
