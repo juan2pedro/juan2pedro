@@ -50,7 +50,8 @@ A project to consolidate my Java + Angular stack and demonstrate end-to-end owne
 
 ## Languages 🌍
 - Spanish: Native  
-- English: A2 (actively improving toward B1/B2)
+- English: B1
+- German : A1 (actively improving toward B1/B2)
 
 ---
 
