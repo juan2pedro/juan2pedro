@@ -1,7 +1,7 @@
 # Hi, I’m Juan Pedro Mancera 👋
 
 **Java Backend Developer** (Spring Boot) with 2+ years of experience building **REST APIs** in **microservices** environments.  
-Based in **Málaga, Spain** — **actively planning relocation**.
+Based in **Málaga, Spain** — **U Citizen, Open to Remote & Relocation**.
 
 - **Core stack:** Java 17/21, Spring Boot, PostgreSQL, REST, JPA/Hibernate  
 - **Quality & practices:** clean code, unit testing (JUnit/Mockito), API documentation (OpenAPI/Swagger), Agile (Scrum/Kanban)  
@@ -50,8 +50,7 @@ A project to consolidate my Java + Angular stack and demonstrate end-to-end owne
 
 ## Languages 🌍
 - Spanish: Native  
-- English: B1
-- German : A1 (actively improving toward B1/B2)
+- English: A1
 
 ---
 
